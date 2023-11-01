@@ -2,7 +2,7 @@ attrs==20.3.0
 coverage==5.5
 flake8==6.1.0
 iniconfig==1.1.1
-mccabe==0.6.1
+mccabe==0.8.0
 packaging==20.9
 pluggy==0.13.1
 py==1.10.0
